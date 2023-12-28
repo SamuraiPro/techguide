@@ -5,3 +5,5 @@
   // List of extensions which should be recommended for users of this workspace.
   "recommendations": ["dbaeumer.vscode-eslint", "EditorConfig.EditorConfig"]
 }
+
+// Alteracao apenas para teste de aluno iniciante, fazer clone do repositorio.
